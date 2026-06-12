@@ -1,0 +1,75 @@
+{
+  "gameId": "pixel-moon-hop",
+  "version": "dev",
+  "packagedAt": "2026-06-11T16:41:47.9679425Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\pixel-moon-hop\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\pixel-moon-hop",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 11400,
+      "sha256": "dd4e3d72d3e13221a260be4f169e7f2cde9aa8198960089819b313d3385549c1"
+    },
+    {
+      "path": "index.apple-touch-icon.png.import",
+      "size": 987,
+      "sha256": "eadc736c8121b5082f9758117a7ff750b9a7e75f1bac95478cd1a024a49ed8e7"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5535,
+      "sha256": "ec2ff5fa1486dbd287d739b1a66a33f7a85fe6fb4ab9f1c550bbb0d7ac978502"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 2868,
+      "sha256": "fb89878777ab5eadc51fa2a7651b7a42f661c482eaaef2b6253b4f0a9d879925"
+    },
+    {
+      "path": "index.icon.png.import",
+      "size": 950,
+      "sha256": "b06dccba8890e1eba801a957a9b9a288879a68dfc47ad685c35aa05d8350c074"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 4356872,
+      "sha256": "9de22785bfe056e983f54d519a52b1a46fba185ff66bcad1f0fce4bd1086622d"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.png.import",
+      "size": 936,
+      "sha256": "4630e1d675550bb032a49e43e1371476918d892a82b49fb0514fa627c55a043f"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "gameId": "dandelion-drone-defense",
+  "version": "build-20260612-114626Z",
+  "packagedAt": "2026-06-12T11:46:26.9308685Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\dandelion-drone-defense\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\dandelion-drone-defense",
+  "latestOutputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\dandelion-drone-defense",
+  "versionArchiveDir": null,
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 8198,
+      "sha256": "9b5f5a6c2666b048982b5af771c7e86a575c393da184c5cec9b731d57db3183c"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5664,
+      "sha256": "3efe40836028da61f0a69bf66e0453c6b5f40dd068b6feda639e6497cd650987"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 30769,
+      "sha256": "7b493c89b613a4588c5d3bf45ca2107b19b0cf654696a86ff4d3f7d6f65dde25"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 3973360,
+      "sha256": "43cac56bfa63c1cb0d1d7e587f923275742c9c222795f25c779eca5d8d1d3de3"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "gameId": "orbit-seed-garden",
+  "version": "0.1.0",
+  "packagedAt": "2026-06-12T09:44:29.8101384Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\orbit-seed-garden\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\orbit-seed-garden",
+  "latestOutputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\orbit-seed-garden",
+  "versionArchiveDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\orbit-seed-garden\\versions\\0.1.0",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 9374,
+      "sha256": "a3f0cb805ae4acb21ab1060bc8db46089d5a6a39d7ca7731117fd4c80cedfbed"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5658,
+      "sha256": "0936b69890742c2e854e888799d9fb33f14f1368d8fd9a61453dba2e9fcc1e38"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 1344,
+      "sha256": "8db3e38bd31427ff559bcb54ce057defb5d6f243813c159c32da1e453f76ef2a"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 3888600,
+      "sha256": "28f497e82388f1b655d2ae4b98a39879789a45a9dae0d14048fde6a7bcf498de"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

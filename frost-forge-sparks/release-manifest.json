@@ -1,0 +1,75 @@
+{
+  "gameId": "frost-forge-sparks",
+  "version": "dev",
+  "packagedAt": "2026-06-11T17:03:58.4561626Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\frost-forge-sparks\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\frost-forge-sparks",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 11188,
+      "sha256": "dc790293537cd579ad197ee4293e67279315564f34706ab5e6865f57256eaeff"
+    },
+    {
+      "path": "index.apple-touch-icon.png.import",
+      "size": 987,
+      "sha256": "ede601de55e2de2fc28fd1af8e7375657bda25bf57104243bf73cd7aef6fa7cb"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5449,
+      "sha256": "9a5e83f6cd0ec9664d69c5818c49c42e7ebbfaaa7615faa18f3e7c071fb30267"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 2743,
+      "sha256": "f9b0fdbbf5cd98d49c07b1c2aee90e9520ff944d709b52e4982d24f254a2063b"
+    },
+    {
+      "path": "index.icon.png.import",
+      "size": 950,
+      "sha256": "3079fb4bbbbcd9f7a85260da327717eeaf97989018c0b711c364e9e08ea1962c"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 3896468,
+      "sha256": "00f8772683f2e8c5d93c196741c9faa4a3ae5d256081ad75101bea26d6134e1c"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.png.import",
+      "size": 935,
+      "sha256": "fb35e750badb43cc7d22a862451f8c6b1cdf1ec63405a83158e09b0da7df0c63"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

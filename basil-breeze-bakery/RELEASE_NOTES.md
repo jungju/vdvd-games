@@ -1,0 +1,12 @@
+# basil-breeze-bakery Release
+
+- Version: build-20260612-114618Z
+- Packaged at: 2026-06-12T11:46:18.3594471Z
+- Source export: C:\Users\jeong\my\Projects\vdvd-maker\games\basil-breeze-bakery\exports\html5_kr
+- Latest output: C:\Users\jeong\my\Projects\vdvd-maker\html5-exports\basil-breeze-bakery
+- Version archive: disabled
+- Files: 9
+
+Latest playable build remains at html5-exports/basil-breeze-bakery/; older builds are kept under html5-exports/basil-breeze-bakery/versions/ for comparison.
+
+Run dvd-qa-smoke-test against this output before public release when browser verification is required.

@@ -1,0 +1,62 @@
+{
+  "gameId": "ember-echo-sortery",
+  "version": "build-20260612-114631Z",
+  "packagedAt": "2026-06-12T11:46:31.2046149Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\ember-echo-sortery\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\ember-echo-sortery",
+  "latestOutputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\ember-echo-sortery",
+  "versionArchiveDir": null,
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 8213,
+      "sha256": "0044df3f26b4e32e33f4d0e7ca06b1161255e6f16366168abc7d9118adc91204"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5659,
+      "sha256": "b27f2f7ef360cfdca22e66badaa3a11b7049d8841a61b26bab2982b741051597"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 31459,
+      "sha256": "af4603230a4d487ed1b32bdad175dcbdbebce151897a3035b9dfc71aa2fdc72e"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 3973424,
+      "sha256": "9f1d6b65e86660237e22caac5617c8032cf58ba9de318c4448af34c082806cb9"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

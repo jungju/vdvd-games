@@ -1,0 +1,75 @@
+{
+  "gameId": "ember-library-guard",
+  "version": "dev",
+  "packagedAt": "2026-06-11T17:03:55.9405798Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\ember-library-guard\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\ember-library-guard",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 11072,
+      "sha256": "7a792c75753e7893b916d3368e6e4d029ba84654ad9cfafd7514c6708ea620cd"
+    },
+    {
+      "path": "index.apple-touch-icon.png.import",
+      "size": 987,
+      "sha256": "70ca32c6868dfe1fa739876d5e602c2b2df4ee0318a5d50cb94ad2cb8f943ca5"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5450,
+      "sha256": "e5621aea689465f3cbcb195f5e3e07d832fa30945736da99b56d7163f6ee13dc"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 2765,
+      "sha256": "97263b38ebad1295efb351e5889a8dd5963fe967037d475c7225ee5211690eff"
+    },
+    {
+      "path": "index.icon.png.import",
+      "size": 951,
+      "sha256": "42a5dca5084b434e9edaf400f1706d973e879937656d8607faad212436792cbc"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 3896516,
+      "sha256": "c08e99c95d46504fd9215d0df16c6589082ac60e6b5f0a7ea81faba465c39da6"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.png.import",
+      "size": 936,
+      "sha256": "d215f4f5d6f2aa70dad073a2a5c236815e440b32813629f041c1e826904d46db"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "gameId": "ivory-island-itinerary",
+  "version": "build-20260612-114647Z",
+  "packagedAt": "2026-06-12T11:46:47.3614958Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\ivory-island-itinerary\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\ivory-island-itinerary",
+  "latestOutputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\ivory-island-itinerary",
+  "versionArchiveDir": null,
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 8109,
+      "sha256": "3cc425723fd1f864469b6b56743c30ed24b90665d66c9c4c315f2cfa0b6a6736"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5663,
+      "sha256": "bf56111fcd85a666c1416c8aa21e39289fc95a1f392ab946d6998ef284d42089"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 32198,
+      "sha256": "1a6a9d84c1e2dd14963b67e0b4e4edd26b00effa380df4589ddb540cd48ad2dc"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 3974976,
+      "sha256": "50dd869e9e1ad05810ace79ced00e69b4c85e964fcf5e397fde6248dee8919a1"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

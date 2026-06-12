@@ -1,0 +1,55 @@
+{
+  "gameId": "keyboard-school-typing",
+  "version": "2026-06-12-redev",
+  "syncedAt": "2026-06-12T08:26:10.054570+00:00",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\keyboard-school-typing\\exports\\html5_kr",
+  "latestOutputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\keyboard-school-typing",
+  "versionArchiveDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\keyboard-school-typing\\versions\\2026-06-12-redev",
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 8557,
+      "sha256": "2c5c6f3b34652d5d12117d8f91577c53b99db43fd5d35b2c510d1762385273da"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5946,
+      "sha256": "8c5d9b6b46a691ff5f4c8b2d07df3de79da282e7e9244919f085db6c83c5e871"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 9469,
+      "sha256": "0604561ff07e535cf371372ab6c1cedd7b2d055e9a6616f9cbc1b1a7539ec166"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 36357868,
+      "sha256": "a311dcfefbc13dcfa1b08af0a6d48e8f5c0c0a13e9e1f87e45ef1fa3de4aca79"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

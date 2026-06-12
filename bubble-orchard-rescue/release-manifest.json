@@ -1,0 +1,75 @@
+{
+  "gameId": "bubble-orchard-rescue",
+  "version": "0.1.0",
+  "packagedAt": "2026-06-11T14:24:13.8310544Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\bubble-orchard-rescue\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\bubble-orchard-rescue",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 8429,
+      "sha256": "1f7ad6f1124d924e4a125f2a65caf037ae08d387c51b0505a65b4df08a87ad6e"
+    },
+    {
+      "path": "index.apple-touch-icon.png.import",
+      "size": 986,
+      "sha256": "8b27648b39316dc358d88b335842ba5f2ef5ba9a44cce1bf483dd74ea675bd55"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5542,
+      "sha256": "4de426ca116ee939dcc90a90b669595d641efcf724b84e76d054dbf72d232ce2"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 3440,
+      "sha256": "618ce0060a58f0b936daeaea3e304e4c81bf0c01a786d83f0300edb67c815273"
+    },
+    {
+      "path": "index.icon.png.import",
+      "size": 949,
+      "sha256": "18a7b2b824d9a5469c6e5e2854c1ed470e6c3c6a0cab7d0f563d5cfb9f7266ff"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 4447412,
+      "sha256": "4cf392300ecca2ab6656470876e3a1db32fb890c0370fa18ed5b2a9d9aeef710"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.png.import",
+      "size": 935,
+      "sha256": "42f88c4f896350aa09983bb4467f4372d316fb2fd11de8b6af9160ecd974c151"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "gameId": "cobalt-canal-cartographer",
+  "version": "build-20260612-114622Z",
+  "packagedAt": "2026-06-12T11:46:22.6475367Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\cobalt-canal-cartographer\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\cobalt-canal-cartographer",
+  "latestOutputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\cobalt-canal-cartographer",
+  "versionArchiveDir": null,
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 8710,
+      "sha256": "3770333f58f7b9cb848bc81b32d6c26d5a3096a22750ea71c90d4a227bb43dbf"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5666,
+      "sha256": "189c56c2929cbd4f6d9869e79b5b88c07dd7fbfa78cc43bff0f1226d8409c9c7"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 32848,
+      "sha256": "bca5e5b1ebb5aa4c2835833f9bf925721b2076fc87830203b55bddff49eaea4d"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 3976512,
+      "sha256": "f44111859425227ef7d918a272f468dbd3f4685ed6a60dae04ad65b51fef066d"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

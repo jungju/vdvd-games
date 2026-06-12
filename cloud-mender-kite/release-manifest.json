@@ -1,0 +1,75 @@
+{
+  "gameId": "cloud-mender-kite",
+  "version": "dev",
+  "packagedAt": "2026-06-11T17:03:56.3617732Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\cloud-mender-kite\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\cloud-mender-kite",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 11116,
+      "sha256": "d262f41b70159424756a35193b0c72a52b5677ef1daf26136c7290298e0c6c98"
+    },
+    {
+      "path": "index.apple-touch-icon.png.import",
+      "size": 987,
+      "sha256": "a395b2c6cd296677fb3493b3aaf70f1f28299f4a653e48d32516fb7bb2bf88f4"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5448,
+      "sha256": "e2320b6f271b5588ffa7e52aea93951fd72e164e7df2ff63b3e6d46ff45f15b5"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 2721,
+      "sha256": "65a6e4374ed344cfe295fa42efa3d94cff54fda16dafb79db292a992b6f7e549"
+    },
+    {
+      "path": "index.icon.png.import",
+      "size": 950,
+      "sha256": "46ca10dfa62ac5f9ba7bfca532b2adad533aca004f905c58f9d3ab752ed10407"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 3896388,
+      "sha256": "119511cd4995eb1c3c1df5f03c6050e2f1a3e51f7148870e4ab400a0e3110368"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.png.import",
+      "size": 936,
+      "sha256": "aadbae13c1d24f6f4be49b84c59d55ed4f254a65683b89b195ff75fbc93e77e5"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

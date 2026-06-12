@@ -1,0 +1,62 @@
+{
+  "gameId": "thunder-tea-trolley",
+  "version": "0.1.1-distinct",
+  "packagedAt": "2026-06-12T09:57:54.8754754Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\thunder-tea-trolley\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\thunder-tea-trolley",
+  "latestOutputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\thunder-tea-trolley",
+  "versionArchiveDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\thunder-tea-trolley\\versions\\0.1.1-distinct",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 9436,
+      "sha256": "cd4ef5b4f45795c211e15b632bcfd13ade808bc0a89b078653c14670fbdc34c5"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5660,
+      "sha256": "ef90b62acf3158c5e0c838fa1784d9bdd43a2b7fa58d3c68d8ed65751a428529"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 1343,
+      "sha256": "c354fba700e610bc1713ed17f5e0a30349098eed988389de1622d4ba5a62fbb2"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 3887112,
+      "sha256": "1739cdc32e01ebb08160e4796fd6ecab28ce89ec73ca5e517b4b64a9e2de9688"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

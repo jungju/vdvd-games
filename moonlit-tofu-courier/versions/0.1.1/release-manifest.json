@@ -1,0 +1,62 @@
+{
+  "gameId": "moonlit-tofu-courier",
+  "version": "0.1.1",
+  "packagedAt": "2026-06-12T07:37:48.8770776Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\moonlit-tofu-courier\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\moonlit-tofu-courier",
+  "latestOutputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\moonlit-tofu-courier",
+  "versionArchiveDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\moonlit-tofu-courier\\versions\\0.1.1",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 3875,
+      "sha256": "ac2bc68f29846e4f05ed558e6d173928a542fc1e7d865d5ff0fd715f7e499623"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5809,
+      "sha256": "d5157fd52110bb2e76cab0f2a7c25bfe27fc7ca800d5917eff046d454d023fd0"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 1393,
+      "sha256": "ddff21cd9a8ebf99e3448a5eae30cbf766c353c8dc0dd159b3a866e9ee719a8f"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 8203024,
+      "sha256": "f2844f1933ec76316e0acecfef6e4a72f0f291407c86109d91543caad53bdda4"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

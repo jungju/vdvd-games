@@ -1,0 +1,75 @@
+{
+  "gameId": "moss-robot-grove",
+  "version": "dev",
+  "packagedAt": "2026-06-11T17:03:56.7759597Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\moss-robot-grove\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\moss-robot-grove",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 11148,
+      "sha256": "08ac2bad98c7b993254cc1aad70da21f6c3fe8eefd67a91e4bc4978eede54d05"
+    },
+    {
+      "path": "index.apple-touch-icon.png.import",
+      "size": 987,
+      "sha256": "d7841f2adaebd3e9e1bab398cf773874f1578f372ec63f3c6946bdf9bef2a39d"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5447,
+      "sha256": "39dab416280507da2bb48a1fa791ab037467e5e444f8daf8e5cae4b6c750d37d"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 2761,
+      "sha256": "a28f05207376e616a84ee8e1d616fb20c6f7eb0889f7fe8670ec9a0b2beb281d"
+    },
+    {
+      "path": "index.icon.png.import",
+      "size": 950,
+      "sha256": "36c829e6058a03069f4ba6f52e4d084e1ca9e5a45e86939b2c0187dbc2899afb"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 3896388,
+      "sha256": "3115fe50070fac9825e45b1c9ab6b4c6b239b5bb45f1f5137e58ee9f9495e089"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.png.import",
+      "size": 936,
+      "sha256": "6745ea0e559376b77881a0ebf610b990d6cfd98f5fd8d7376b18d9e6dc3928d6"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

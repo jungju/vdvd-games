@@ -1,0 +1,62 @@
+{
+  "gameId": "prism-lake-post",
+  "version": "0.1.1-distinct",
+  "packagedAt": "2026-06-12T09:57:55.5975491Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\prism-lake-post\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\prism-lake-post",
+  "latestOutputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\prism-lake-post",
+  "versionArchiveDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\prism-lake-post\\versions\\0.1.1-distinct",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 9414,
+      "sha256": "88e8db82958e25f08a460b1365ebf5b467dbb3492b87e26d1e7562c550767e95"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5656,
+      "sha256": "0f190b9a9883e2583ab25aaa2440350bfea378fe172fe839fdef84ed425e3799"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 1344,
+      "sha256": "f692b58065652c3cc6b7e36a2e11cb9b4b34117502d049861392f39de857d9db"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 3886888,
+      "sha256": "095bc4170d2dbf2809637be2617ad3cc589f7782fd8fdd7da81a8fb942b11a20"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

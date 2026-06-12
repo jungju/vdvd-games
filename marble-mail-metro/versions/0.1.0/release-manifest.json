@@ -1,0 +1,62 @@
+{
+  "gameId": "marble-mail-metro",
+  "version": "0.1.0",
+  "packagedAt": "2026-06-12T15:32:23.9322809Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\marble-mail-metro\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\marble-mail-metro",
+  "latestOutputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\marble-mail-metro",
+  "versionArchiveDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\marble-mail-metro\\versions\\0.1.0",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 7011,
+      "sha256": "7ac1be9e777ddc203f98faea6500b3a83e72638356ef044f906a8c511a7d7a8f"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5942,
+      "sha256": "60d627f33e212d98eaf7f6d5c8f493f0293ff3286ba930ffa1e8dd3ab403753c"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 8973,
+      "sha256": "22e26bfe9be7fbaafff201dd2a8473803f029063e874adfecbad9d787664b0f0"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 4229332,
+      "sha256": "4def51d244900ede191b506a8c00155b2f95e9538b828d31ef87c5d3b136e864"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

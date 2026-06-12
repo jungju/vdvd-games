@@ -1,0 +1,75 @@
+{
+  "gameId": "clockfox-rail-chase",
+  "version": "dev",
+  "packagedAt": "2026-06-11T17:03:55.5049710Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\clockfox-rail-chase\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\clockfox-rail-chase",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 11239,
+      "sha256": "5799ccc5783867a4c9bdfeb6a8d42a9dc4b13ee1f310f2789bf32851f5263714"
+    },
+    {
+      "path": "index.apple-touch-icon.png.import",
+      "size": 987,
+      "sha256": "6d23a77edccd3159e860a25dbce9c87c0e1b5a3a69fa74e30e26f55d2282078c"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5450,
+      "sha256": "38e14aaaec5339f36bed1077227853fd4ce81238a8734cdccda8a0587f9c380b"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 2770,
+      "sha256": "25367f0074cc8645674618034b931f201bc2722d35355b8d46d520c34b06d17e"
+    },
+    {
+      "path": "index.icon.png.import",
+      "size": 951,
+      "sha256": "b0f9a659c9afb77d9f40ba5211d35eed0c8aebbd0fed5af891fa94844e624914"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 3896516,
+      "sha256": "177e35647d5612e1b9d9e96b195b1a6aade9c597a99250b2aca29b491561d3f6"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.png.import",
+      "size": 936,
+      "sha256": "3cf9cb1f237b82f83cb7659d50e3495d95154a79ea2b03590bd0708fb539850b"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}

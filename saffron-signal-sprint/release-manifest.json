@@ -1,0 +1,75 @@
+{
+  "gameId": "saffron-signal-sprint",
+  "version": "0.1.0",
+  "packagedAt": "2026-06-12T04:56:31.2608933Z",
+  "sourceExportDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\games\\saffron-signal-sprint\\exports\\html5_kr",
+  "outputDir": "C:\\Users\\jeong\\my\\Projects\\vdvd-maker\\html5-exports\\saffron-signal-sprint",
+  "requiredGroups": {
+    "html": 1,
+    "js": 3,
+    "wasm": 1,
+    "pck": 1
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "size": 8320,
+      "sha256": "172cdcfde4a9b8ecb7d7ee6890ca6adb5c70de6a35cfe273d9cf499652414aca"
+    },
+    {
+      "path": "index.apple-touch-icon.png.import",
+      "size": 986,
+      "sha256": "04f2a25c480b0ea865068c351f3c2fd07286481ecf29c49c64b009dc681b3aaa"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "size": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "size": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "size": 5818,
+      "sha256": "b60f73a3aa68b31f7b11c9b9b7c2af249c2469d760609b05082e53a99ba3f60f"
+    },
+    {
+      "path": "index.icon.png",
+      "size": 3553,
+      "sha256": "6d5231a3a57f0594ee20fa76bda4f6f473a92f32093238a626bee89032d27d99"
+    },
+    {
+      "path": "index.icon.png.import",
+      "size": 950,
+      "sha256": "fdab73bc49093d724d1d2eb26e4fc0289bc3e63bc6ed54ca6ae4b5a09bfdfb6e"
+    },
+    {
+      "path": "index.js",
+      "size": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "size": 4446256,
+      "sha256": "e7e782f34a2c26a142476622cffb97b9649c71cd0e54bdfd07fcc5775299831e"
+    },
+    {
+      "path": "index.png",
+      "size": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.png.import",
+      "size": 935,
+      "sha256": "3f89f1d4f96c1560c7582639766e73ad674a3ece52f3e451a5029a3530736777"
+    },
+    {
+      "path": "index.wasm",
+      "size": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ]
+}
